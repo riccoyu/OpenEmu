@@ -33,7 +33,7 @@
 	url = git@github.com:OpenEmu/picodrive.git
 [submodule "PPSSPP"]
 	path = PPSSPP
-	url = git@github.com:OpenEmu/PPSSPP-Core.git
+	url = git@github.com:riccoyu/PPSSPP-Core.git
 [submodule "VecXGL"]
 	path = VecXGL
 	url = git@github.com:OpenEmu/VecXGL-Core.git
